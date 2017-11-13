@@ -1,0 +1,85 @@
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: rgba(128, 0, 128, 0.726);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 5em;
+}
+.alegrefont {
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+.alegre {
+    width: 370px; 
+    height: 370px; 
+    background: #1ae0a5;
+    -moz-border-radius:  100% 0 0 0;
+    -webkit-border-radius:100% 0 0 0;
+    border-radius: 100% 0 0 0;
+    float: left;
+    position: relative;
+    left: 250px;
+    top: 50px;
+}
+
+.apasionadofont {
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    right: 180px;
+    top: 300px;
+}
+.apasionado{
+    width: 370px;  
+    height: 370px;  
+    background: #c71bb0;
+    -moz-border-radius: 0 100% 0 0;
+    -webkit-border-radius: 0 100% 0 0;
+    border-radius: 0 100% 0 0;
+    float: right;
+    position: relative;
+    right: 270px;
+    top: 50px;
+}
+
+.depresivofont {
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 180px;
+    bottom: 100px;
+}
+
+.depresivo {
+    width: 370px; 
+    height: 370px;  
+    background: #3b9ee0;
+    float: left;
+    position: absolute;
+    left: 258px;
+    bottom: 1px;
+    -moz-border-radius: 0 0 0 100%;
+    -webkit-border-radius: 0 0 0 100%;
+    border-radius: 0 0 0 100%;
+}
+
+
+.tranquilofont {
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    right: 180px;
+    bottom: 100px;
+}
+.tranquilo {
+    width: 370px;  
+    height: 370px; 
+    background: #e7da63;
+    float: left;
+    position: absolute;
+    right: 277px;
+    bottom: 1px;
+    -moz-border-radius: 0 0 100% 0;
+    -webkit-border-radius: 0 0 100% 0;
+    border-radius:0 0 100% 0;
+}
